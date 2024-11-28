@@ -1,0 +1,17 @@
+2024-11-27 23:37:45,818 - 127.0.0.1 - DEBUG -  "GET /register HTTP/1.1" - 200
+2024-11-27 23:37:46,792 - 127.0.0.1 - ERROR -  "GET /favicon.ico HTTP/1.1" - 404
+2024-11-27 23:37:57,972 - 127.0.0.1 - INFO - Nuevo usuario registrado: por
+2024-11-27 23:37:57,978 - 127.0.0.1 - DEBUG -  "POST /register HTTP/1.1" - 302
+2024-11-27 23:37:58,000 - 127.0.0.1 - DEBUG -  "GET /login HTTP/1.1" - 200
+2024-11-27 23:38:06,886 - 127.0.0.1 - INFO - Usuario por inicio sesion exitosamente
+2024-11-27 23:38:06,888 - 127.0.0.1 - DEBUG -  "POST /login HTTP/1.1" - 302
+2024-11-27 23:38:06,896 - 127.0.0.1 - DEBUG -  "GET /welcome HTTP/1.1" - 200
+2024-11-27 23:40:22,780 - 127.0.0.1 - DEBUG -  "GET /register HTTP/1.1" - 200
+2024-11-27 23:40:53,035 - 192.168.18.4 - DEBUG -  "GET /register HTTP/1.1" - 200
+2024-11-27 23:40:54,013 - 192.168.18.4 - ERROR -  "GET /favicon.ico HTTP/1.1" - 404
+2024-11-27 23:41:04,100 - 192.168.18.4 - INFO - Nuevo usuario registrado: Pelig
+2024-11-27 23:41:04,101 - 192.168.18.4 - DEBUG -  "POST /register HTTP/1.1" - 302
+2024-11-27 23:41:04,139 - 192.168.18.4 - DEBUG -  "GET /login HTTP/1.1" - 200
+2024-11-27 23:41:15,429 - 192.168.18.4 - INFO - Usuario Pelig inicio sesion exitosamente
+2024-11-27 23:41:15,430 - 192.168.18.4 - DEBUG -  "POST /login HTTP/1.1" - 302
+2024-11-27 23:41:15,459 - 192.168.18.4 - DEBUG -  "GET /welcome HTTP/1.1" - 200
